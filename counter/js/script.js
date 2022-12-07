@@ -12,7 +12,7 @@ const caloriesMaximal = document.getElementById('calories-maximal');
 
 const WEIGHT_COEFFICIENT = 10;
 const HEIGHT_COEFFICIENT = 6.25;
-const AGE_COEFFICIENT = 6.25;
+const AGE_COEFFICIENT = 5;
 
 const MIN_ACTIVITY_COEFFICIENT = 1.2;
 const LOW_ACTIVITY_COEFFICIENT = 1.375;
